@@ -1,0 +1,30 @@
+
+# Python virtual environments
+venv/
+.venv/
+.venv-tf/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+.env
+*.pem
+*.key
+
+# Temporary files
+*.log

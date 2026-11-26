@@ -1,0 +1,8 @@
+{
+    "model": "Improved Random Forest",
+    "threshold": 0.6,
+    "accuracy": 0.9179640469963051,
+    "precision": 0.9691833590138675,
+    "recall": 0.24332688588007736,
+    "f1_score": 0.38899196042053186
+}
